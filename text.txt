@@ -1,0 +1,6 @@
+/home/ec2-user
+
+scp -i /Users/rpererah/Downloads/teste.pem /Users/rpererah/Documents/anarita/upload ec2-user@18.212.140.212:/home/ec2-user
+
+
+/Users/rpererah/Documents/anarita/upload
